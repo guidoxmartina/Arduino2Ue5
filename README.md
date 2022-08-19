@@ -66,4 +66,5 @@ void loop () {
 
 https://www.youtube.com/watch?v=ElM9EQVjR-8<br>
 https://github.com/videofeedback/Unreal_Engine_SerialCOM_Plugin<br>
-https://controlautomaticoeducacion.com/arduino/entradas-digitales/
+https://controlautomaticoeducacion.com/arduino/entradas-digitales/<br>
+https://www.youtube.com/watch?v=PfVkCSsy8hA
