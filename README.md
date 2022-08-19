@@ -59,6 +59,10 @@ void loop () {
   else
   digitalWrite(Led, LOW);
 ```
+tutorial arduino <br>
+https://controlautomaticoeducacion.com/arduino/entradas-digitales/
+<br>
+
 
 
 # Unreal Engine 5<br>
