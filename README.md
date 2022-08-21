@@ -71,6 +71,6 @@ https://controlautomaticoeducacion.com/arduino/entradas-digitales/
 https://www.youtube.com/watch?v=ElM9EQVjR-8<br>
 https://github.com/videofeedback/Unreal_Engine_SerialCOM_Plugin<br>
 https://controlautomaticoeducacion.com/arduino/entradas-digitales/<br>
--ingresar dato en arduino y recibirlo en unreal, usando otro plugin para UE5<br>
+-ingresar dato en arduino y recibirlo en unreal (en el video usa ue4 y otro plugin, pero sirve para ue5 usando el plugin correspodiente)<br>
 https://www.youtube.com/watch?v=PfVkCSsy8hA
 
